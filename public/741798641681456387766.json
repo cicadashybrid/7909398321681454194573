@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "847578339168",
+    "project_id": "gerimis-media",
+    "storage_bucket": "gerimis-media.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847578339168:android:343a083afe8f09aa3e7005",
+        "android_client_info": {
+          "package_name": "com.gerimismedia.kicauburungproonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847578339168-nfpcl1j3at6ucolu205ij44tt7r4s6ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV9arpn1Ya3v42EpJdgwpmAlDELssgjqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847578339168-nfpcl1j3at6ucolu205ij44tt7r4s6ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847578339168:android:f8801ae7ad9c45ae3e7005",
+        "android_client_info": {
+          "package_name": "com.gerimismedia.lagudangdutlawasterbaik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847578339168-nfpcl1j3at6ucolu205ij44tt7r4s6ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV9arpn1Ya3v42EpJdgwpmAlDELssgjqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847578339168-nfpcl1j3at6ucolu205ij44tt7r4s6ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847578339168:android:39a4932955ff86683e7005",
+        "android_client_info": {
+          "package_name": "com.gerimismedia.laguqasidahversidangdut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847578339168-nfpcl1j3at6ucolu205ij44tt7r4s6ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV9arpn1Ya3v42EpJdgwpmAlDELssgjqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847578339168-nfpcl1j3at6ucolu205ij44tt7r4s6ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
